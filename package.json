@@ -1,0 +1,17 @@
+{
+  "name": "fhir",
+  "version": "1.0.0",
+  "description": "[] Implementing search (API) capability.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sameer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
